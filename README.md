@@ -14,3 +14,6 @@
 ```
 Visit my homepage at [http://markuszeller.com](http://markuszeller.com)
 or my private [github](https://github.com/markuszeller). See my [gists](https://gist.github.com/markuszeller) for some tipps & tricks.
+
+# Working in Team X-Force
+![team-x-force](assets/x-force-001b.png)
